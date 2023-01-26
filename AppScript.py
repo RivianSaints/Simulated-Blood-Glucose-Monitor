@@ -13,6 +13,11 @@ print("Hello World")
 print("test #1")
 
 
+##To Do:
+## Get open source GUI library
+##Write basic GUI library
+##Figure out how to export to .exe file(include the extra libraries)
+##Figure out what bluetooth dongle will be used and how to communicate with it
 
 
 
