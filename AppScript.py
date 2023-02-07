@@ -5,6 +5,8 @@
 
 import sys
 import getopt
+import wx
+
 
 opts,args = getopt.getopt(sys.argv, "?hH")
 
